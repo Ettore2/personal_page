@@ -1,0 +1,136 @@
+.body {
+    margin: 0;
+}
+
+.title_div {
+    margin: 0;
+}
+
+.end_div {
+    margin: 0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
+.content_div {
+    margin: 0;
+}
+
+.title {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-size: 400%;
+
+}
+
+.sub_title {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 2%;
+    font-size: 260%;
+}
+
+.parag_title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-top: 3%;
+    padding-bottom: 0.5%;
+    margin: 0;
+}
+
+.paragraph {
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin: 0;
+}
+
+.contact_btn {
+    color: black;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    margin-left: 45%;
+    margin-right: 45%;
+    width: 8%;
+    border-radius: 8px;
+}
+
+a.contact_btn:hover {
+    background-color: rgb(255, 242, 0);
+}
+
+
+
+.color1 {
+    color: #FFC94A;
+
+}
+
+.color2 {
+    color: #C08B5C;
+}
+
+.color3 {
+    color: #795458;
+}
+
+.color4 {
+    color: #453F78;
+}
+
+.background1 {
+    background-color: #FFC94A;
+
+}
+
+.background2 {
+    background-color: #C08B5C;
+}
+
+.background3 {
+    background-color: #795458;
+}
+
+.background4 {
+    background-color: #453F78;
+}
+
+.background5 {
+    background-color: #ebebff;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.alline {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.fontA {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.fontB {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.fontC {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
