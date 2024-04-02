@@ -50,6 +50,11 @@
     margin: 0;
 }
 
+.text_link {
+    color: black;
+    font-family: "Montserrat", sans-serif;
+}
+
 .contact_btn {
     color: black;
     padding-left: 1%;
@@ -62,6 +67,7 @@
     margin-right: 45%;
     width: 8%;
     border-radius: 8px;
+    font-weight: bold;
 }
 
 a.contact_btn:hover {
